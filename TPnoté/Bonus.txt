@@ -1,0 +1,11 @@
+Explication MVC
+Le modele MVC se communique par des evenements.
+on commence d'abord a implanter la vue puis le modele qui contient les données de l'application
+et ensuite le controlleur qui trasmet les informations entre la vue et le modele.
+
+Dans notre exemple
+la vue : les radioButton(select/move,select rectangle,ligne,ellipse) , boutons(delete,clone) en un mot interface homme machine.
+
+modele : est la mise a jour ou le deplacement des objets rectangle,ligne ellipse.
+
+Controlleur : lorsqu'on effectue une action a travers les radionbutton ou les boutons.c'est la partie du code.
